@@ -2,6 +2,7 @@
 figlet "SimiSimi"
 echo "This Script Is Only Made For Singles :)"
 echo "Use it to your heart's content "
+echo "Script This is made for Indonesian"
 echo "----------------------------------"
 echo "Script By Foundation Security Zone"
 echo "Instagram: https://instagram.com/indonesia.sadboy.xploit"
